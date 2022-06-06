@@ -2,8 +2,7 @@
 
 let num1;
 let num2;
-let multiply = 64;
-multiply = num1 * num2;
+let multiply = (num1 * num2) = 64;
 
 
  let random;
